@@ -18,7 +18,7 @@ This project is a stopwatch web application that allows users to track time, pau
 ## Screenshots
 
 ### Stopwatch UI
-![Stopwatch](assets/stopwatch.png)
+![Stopwatch](stopwatch.png)
 
 ## Author
 Amisha Krishnan
